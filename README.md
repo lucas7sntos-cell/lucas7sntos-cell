@@ -1,6 +1,6 @@
 ## 💼Apresentaçao do meu perfil💼
 
-olá, meu nome é Lucas Santos, sou estudante na área de tecnologia da informação,tenho grande interesse em desenvolvimento de software e na construção de soluções tecnologicas, sigo evoluindo para aprimorar meu conhecimento em programação, versionamento de codigo e boas praticas em T.I,Sigo em evolução, em busca de ingressar no mercado de trabalho, onde eu possa aplicar meus conhecimentos, ganhar experiência e contribuir com dedicação e esforço para o crescimento da equipe e da empresa.
+Olá, meu nome é Lucas Santos, sou estudante na área de tecnologia da informação,tenho grande interesse em desenvolvimento de software e na construção de soluções tecnologicas, sigo evoluindo para aprimorar meu conhecimento em programação, versionamento de codigo e boas praticas em T.I,Sigo em evolução, em busca de ingressar no mercado de trabalho, onde eu possa aplicar meus conhecimentos, ganhar experiência e contribuir com dedicação e esforço para o crescimento da equipe e da empresa.
 
 ## 💻Atualmente Desenvolvo em 💻:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
